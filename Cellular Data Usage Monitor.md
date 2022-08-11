@@ -32,3 +32,10 @@ To set an automated timer:
 1. Add Roaming Usage
 2. Reset Statistics when shortcut runs
 3. Usage Over Period = Usage Last Period - Usage This Period
+
+# How it works
+It works in 4 parts
+1. Navigate to data usage and take screenshot - sets url to settings preference, open the url, and take a screenshot
+2. Crop the screenshot, get text from the cropped screenshot and format a text box
+3. Find a note in your notes that is named Cellular Data Usage
+4. Add the text box to the end of your note
