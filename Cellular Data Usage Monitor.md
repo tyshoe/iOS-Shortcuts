@@ -1,6 +1,6 @@
 # Cellular Data Usage Monitor
 
-### [Download](https://www.icloud.com/shortcuts/a48e3ba942e1495db16b8ecea4582cdf)
+### [Download](https://www.icloud.com/shortcuts/e35a8f1e6d5a42148408e5bba47670b3)
 
 # Setup:
 1. Click the download button and add the shortcut to your phone
