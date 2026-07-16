@@ -1,0 +1,5 @@
+# Powers the "Sponsor" button at the top of the repo page.
+# Docs: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+github: [tyshoe]
+buy_me_a_coffee: tyshoe

@@ -8,37 +8,70 @@
 
 </div>
 
-A curated collection of powerful and practical iOS Shortcuts to supercharge your iPhone or iPad workflow.
+A curated collection of practical iOS automations — **Shortcuts** you can install
+in a single tap, plus **Scriptable** widgets and scripts for the things the
+Shortcuts app can't reach.
+
+---
+
+## 📱 Shortcuts
+
+Install straight to your device from the Shortcuts app. No extra tooling needed.
+
+| Shortcut | What it does |
+| --- | --- |
+| [Cellular Data Usage Monitor](shortcuts/cellular-data-usage-monitor/README.md) | Logs your cellular data consumption to a note over time, for more detail than the built-in stats give you. |
+
+## 🧩 Scriptable
+
+[Scriptable](https://scriptable.app) is a free app that runs JavaScript on iOS
+and renders custom home screen widgets. These projects live here because they do
+things Shortcuts alone can't — live data fetching, custom widget rendering, and
+real logic.
+
+Each project folder holds its `.js` source next to setup instructions.
+
+| Script | What it does |
+| --- | --- |
+| [Creek Gauge](scriptable/creek-gauge/README.md) | Charts any USGS river or creek gauge over the last 7 days as a home screen widget, with the current reading called out. |
 
 ---
 
 ## 📥 Installation
 
-1. Browse any shortcut markdown file in the repository.  
-2. Tap the download link inside to install the shortcut directly to your device.
+**Shortcuts** — open the project folder above and tap the **Download** link on
+your iPhone or iPad. It opens straight into the Shortcuts app.
+
+**Scriptable** — install [Scriptable](https://apps.apple.com/app/scriptable/id1405459188)
+from the App Store, create a new script, and paste in the project's `.js` file.
+Each project's README covers its own configuration and widget setup.
 
 ---
 
 ## 🌟 Support & Contributions
 
-Love these shortcuts?  
+Love these automations?
 Leave a ⭐️ to show your support and help others discover them!
 
-### Contribute a Shortcut
+### Contribute
 
-We welcome contributions from the community! To add your own:
-
-1. **Fork** this repository  
-2. **Add your shortcut**, along with documentation in a new `.md` file  
-3. **Open a Pull Request** with your changes  
-
-Please see [`CONTRIBUTING.md`](CONTRIBUTING.md) for full guidelines.
+Contributions are welcome — both Shortcuts and Scriptable projects.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the layout and guidelines.
 
 ---
 
 ## 💖 Support Development
 
-Maintaining and updating these shortcuts takes time.  
-If you’ve found them helpful, consider donating to support continued development:
+Maintaining and updating these takes time.
+If you've found them helpful, consider supporting continued development:
 
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal)](https://www.paypal.com/paypalme/tylershoemake)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/tyshoe)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/tyshoe)
+
+You can also use the **Sponsor** button at the top of this repo.
+
+---
+
+## 📄 License
+
+MIT — see [LICENSE](LICENSE).
