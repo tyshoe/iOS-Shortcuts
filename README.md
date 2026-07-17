@@ -34,6 +34,7 @@ Each project folder holds its `.js` source next to setup instructions.
 | Script | What it does |
 | --- | --- |
 | [Creek Gauge](scriptable/creek-gauge/README.md) | Charts any USGS river or creek gauge over the last 7 days as a home screen widget, with the current reading called out. |
+| [Speedrun Profile](scriptable/speedrun-profile/README.md) | Shows your speedrun.com avatar, unread notifications, and pending moderation queue in a small home screen widget. |
 
 ---
 
